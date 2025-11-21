@@ -1,0 +1,16 @@
+﻿# ESP-IDF build output
+build/
+sdkconfig
+sdkconfig.old
+
+# Dependencies
+dependencies.lock
+
+# IDE
+.vscode/
+.idea/
+
+# Test images
+*.jpg
+*.jpeg
+*.png
